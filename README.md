@@ -24,8 +24,8 @@ A lightweight, optimized, and fully featured custom OS setup for turning a **Ras
 - **Raspberry Pi Zero / Zero W / Zero 2 W**
 - **1.44-inch SPI LCD Display Module (128x128, ST7735 controller)** (e.g., Waveshare 1.44inch LCD HAT)
 - MicroSD Card (8GB+) with **Raspberry Pi OS (32-bit / Lite or Desktop)**
-- Official **PICO-8 Raspberry Pi dynamic binary** (`pico8_dyn`)
-
+- Official **PICO-8 Raspberry Pi dynamic binary** (`pico8_dyn`) - Not included, buy your license in [
+](https://www.lexaloffle.com)
 ### GPIO Pin Mapping
 
 | Component | Function | GPIO Pin (BCM) |
