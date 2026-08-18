@@ -79,7 +79,7 @@ Install Raspberry Pi OS on your MicroSD card and ensure SSH and Wi-Fi are config
 
 ### 2. Copy the PICO-8 Binary
 Obtain the official PICO-8 Raspberry Pi build from [Lexaloffle](https://www.lexaloffle.com/pico-8.php) and copy the `pico8_dyn` binary to your home directory:
-```bash
+
 /home/pi/pico8_dyn
 
 chmod +x /home/pi/pico8_dyn
@@ -98,9 +98,11 @@ Timezone setting to America/Guatemala (UTC-6) with active NTP sync.
 Power saving optimizations (disabling Bluetooth overhead).
 Compilation of lcd_stream.c into an optimized C binary.
 Setup of input event listeners and systemd autostart services (pico8.service).
+
 4. Reboot
 Bash
 sudo reboot
+
 🎮 How to Use
 Main Menu / Clock Screen
 KEY 1: Launch PICO-8 (SPLORE mode).
@@ -122,4 +124,5 @@ KEY 1: Button O (Z).
 KEY 2: Button X (X).
 KEY 3: Pause Menu / ESC (ESC).
 📁 Repository Structure
+
 
